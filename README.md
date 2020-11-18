@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, my name is João 👋
+I am an undergraduate student in Information Systems at the University of São Paulo (USP) looking for opportunities and collaboration in general.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-victor-araujo/) 
 
 <!--
-**joao-fa/joao-fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joaovicttorusp/joaovicttorusp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
